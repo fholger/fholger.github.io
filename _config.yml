@@ -74,6 +74,18 @@ content:
           Rise and shine, Mr Freeman. Rise and ... shine.
         description: | # this will include new lines to allow paragraphs
           Half Life 2: VR is a third-party modification of the 2004 PC gaming classic by Valve Software, which adds full Virtual Reality support to the original game.
+
+          The project was originally started over a decade ago in the early days of Oculus.
+          It successfully passed Steam greenlight in 2017, but then ran into trouble and was
+          all but abandoned. I joined the project in July 2021 as part of an influx of new
+          team members to revive it and finally get it out of the door. As the lead developer,
+          I made sure to keep the project focussed on the essentials and slowly transform it
+          into a playable and enjoyable experience. The project entered a private beta test phase
+          in May 2022 and is launching a public beta in September 2022 on Steam.
+          
+          Built on the Source 2013 SDK and using OpenVR and a customized dxvk build to implement
+          the VR rendering.
+
       - layout: top-middle
         title: The Dark Mod VR
         link: github.com/fholger/thedarkmodvr
@@ -115,22 +127,25 @@ content:
         title: TNG Technology Consulting
         link: tngtech.com
         # link_text: boringcompany.com
-        sub_title: Senior Consultant
-        caption: September 2018 - Present
+        sub_title: Senior (since 2018) Software Consultant
+        caption: April 2016 - Present
         quote: >
           We solve hard IT problems.
         description: | # this will include new lines to allow paragraphs
           TNG is a value-based consulting partnership focused on high end information technology.
+          I have worked and consulted on several projects for our clients. These projects
+          include: 
+          - big data processing in privacy-compliant ways on AWS cloud infrastructure and K8s with Flink and Akka
+          - modernizing a legacy client-facing desktop application and bringing it into the cloud as SaaS
+          - building a modern web application with .NET, ASP.NET Core and Typescript/React
       - layout: left
-        title: TNG Technology Consulting
-        link: tngtech.com
-        # link_text: boringcompany.com
-        sub_title: Software Consultant
-        caption: April 2016 - September 2018
-        quote: >
-          We solve hard IT problems.
+        title: Technische Universität Darmstadt
+        link: www.tu-darmstadt.de
+        sub_title: Research assistant
+        caption: 2011 - 2016
         description: | # this will include new lines to allow paragraphs
-          TNG is a value-based consulting partnership focused on high end information technology.
+          Doing research and completing my PhD in the field of theoretical quantum information
+          theory.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
