@@ -46,7 +46,7 @@ linkedin_username: hfrydrych
 
 # About Section
 # about_title: About Me
-about_profile_image: images/face_co.svg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Holger and I am a senior developer from Munich focussing on backend development.
   I am well versed in both the Java and .NET ecosystems and also have experience with Cloud
