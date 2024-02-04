@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sproogen/moderm-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -23,9 +23,9 @@ github_username:  fholger
 # flickr_username: jekyll
 #instagram_username: jameswgrant
 linkedin_username: hfrydrych
-# xing_username: jekyll
+xing_username: Holger_Frydrych
 # pinterest_username: jekyll
-#youtube_username: fholger
+youtube_username: "@fholger"
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -43,6 +43,9 @@ linkedin_username: hfrydrych
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+
+include:
+  - _pages
 
 # About Section
 # about_title: About Me
@@ -186,11 +189,11 @@ content:
   #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: '<a href="/impressum/">Impressum</a>'
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
