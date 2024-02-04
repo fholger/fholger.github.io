@@ -190,7 +190,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: '<a href="/impressum/">Impressum</a> - <a href="/datenschutz/">Datenschutz</a>'
+references_title: '<a href="/contact/">Contact</a> / <a href="/impressum/">Impressum</a> - <a href="/data_protection/">Data protection</a> / <a href="/datenschutz/">Datenschutz</a>'
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
