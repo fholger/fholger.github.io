@@ -212,6 +212,16 @@ Further information about Google Fonts can be found at <https://developers.googl
 The company is certified according to the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the USA that is intended to ensure compliance with European data protection standards when data is processed in the USA. Every DPF certified company undertakes to comply with these data protection standards. Further information can be obtained from the provider using the following link:
 <https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt000000001L5AAI&status=Active>
 
+#### Font Awesome
+
+This site uses Font Awesome to display fonts and symbols uniformly. The provider is Fonticons, Inc., 6 Porter Road Apartment 3R, Cambridge, Massachusetts, USA.
+
+When you access a page, your browser loads the necessary fonts into your browser cache in order to display texts, fonts and symbols correctly. For this purpose, the browser you use must connect to Font Awesome's servers. This gives Font Awesome knowledge that this website was accessed via your IP address. The use of Font Awesome is based on Art. 6 Para. 1 lit. f GDPR. We have a legitimate interest in the uniform presentation of the typeface on our website. If appropriate consent has been requested, processing is carried out exclusively on the basis of Art. 6 Para. 1 lit. a GDPR and § 25 Para. 1 TTDSG, as long as the consent requires the storage of cookies or access to information in the The user's end device (e.g. device fingerprinting) within the meaning of the TTDSG. Consent can be revoked at any time.
+
+If your browser does not support Font Awesome, your computer will use a standard font.
+
+Further information about Font Awesome can be found in Font Awesome's privacy policy at: <https://fontawesome.com/privacy>.
+
 
 Sources:
 - <https://www.e-recht24.de>
