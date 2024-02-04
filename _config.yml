@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Holger Frydrych
-title: Senior Consultant
+title: VR Development and Consulting
 email: holger@frydrych.org
 website: www.frydrych.org
 
@@ -51,42 +51,28 @@ include:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Holger and I am a senior developer from Munich focussing on backend development.
-  I am well versed in both the Java and .NET ecosystems and also have experience with Cloud
-  and Kubernetes deployments.
-  
-  My true passion, though, is Virtual Reality and 3D rendering. In my free time I work on
-  porting classic games to VR and other VR-related projects. C++ and Rust are my weapons of choice.
+  Hi, my name is Holger and I am a Munich based developer specializing in Virtual Reality and stereoscopic rendering.
+  Are you planning to port your existing game or experience to Virtual Reality? I can help you!
+
+  I have been involved in several successful community-driven VR ports for classic games and understand the challenges involved.
+  Rendering games in VR is a performance-critical task that requires special considerations to make it work well. Techniques like
+  instanced and multiview stereo rendering and (fixed) foveated rendering can help reduce the performance overhead. Additionally,
+  it is crucial to understand the essential gameplay features that must be implemented to make VR gamers happy.
+
+  If you think you can benefit from my experience, don't hesitate to contact me!
 
 content:
-  - title: Projects # Title for the section
+  - title: My VR game conversions and VR tools
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: "Far Cry VR"
-        link: farcryvr.de
-        quote: >
-          Welcome to Cabatu!
-        description: | # this will include new lines to allow paragraphs
-          Far Cry VR transforms the classic 2004 shooter into a full virtual reality experience with motion controls.
-
-          With the help of the Far Cry Mod SDK, Far Cry VR is a total conversion of the game to make it
-          a native VR experience. Full stereoscopic VR rendering combined with motion controller support
-          lets players experience Jack Carver's visit to Cabatu from a whole new perspective.
-          
-          Built on the Far Cry Mod SDK and using OpenVR and a customized dxvk build to implement
-          the VR rendering.
       - layout: top-middle
         title: "Half-Life 2: VR"
         link: halflife2vr.com
         # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        additional_links:
+          - title:  Steam page
+            icon: fab fa-steam
+            url: https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/
         quote: >
           Rise and shine, Mr Freeman. Rise and ... shine.
         description: | # this will include new lines to allow paragraphs
@@ -98,27 +84,46 @@ content:
           team members to revive it and finally get it out of the door. As the lead developer,
           I made sure to keep the project focussed on the essentials and slowly transform it
           into a playable and enjoyable experience. The project entered a private beta test phase
-          in May 2022 and is launching a public beta in September 2022 on Steam.
+          in May 2022 and launched publically in September 2022 on Steam. It was met with an
+          overwhelmingly positive reception by the VR community.
           
           Built on the Source 2013 SDK and using OpenVR and a customized dxvk build to implement
           the VR rendering.
+      - layout: top-middle
+        title: "Far Cry VR"
+        link: farcryvr.de
+        quote: >
+          Welcome to Cabatu!
+        description: | # this will include new lines to allow paragraphs
+          Far Cry VR transforms the classic 2004 shooter into a full virtual reality experience with motion controls.
 
+          With the help of the Far Cry Mod SDK, I created a total conversion of the game to make it
+          a native VR experience. Full stereoscopic VR rendering combined with motion controller support
+          lets players experience Jack Carver's visit to Cabatu from a whole new perspective.
+          
+          Built on the Far Cry Mod SDK and using OpenVR and a customized dxvk build to implement
+          the VR rendering.
+      - layout: top-middle
+        title: "Crysis VR"
+        link: github.com/fholger/crysis_vrmod
+        quote: >
+          Maximum immersion!
+        description: | # this will include new lines to allow paragraphs
+          Crysis VR is a work-in-progress Virtual Reality adaptation of the notorious 2007 shooter.
+
+          I implemented stereoscopic rendering and basic motion controller support that allow you to
+          experience this still gorgeous game in glorious VR.
+          
+          Built on the Crysis Mod SDK, it incorporates a D3D10 to D3D11 bridge to bring the rendered
+          images to the OpenXR runtime.
       - layout: top-middle
         title: The Dark Mod VR
         link: github.com/fholger/thedarkmodvr
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           The Dark Mod is a free community-developed stealth game in the spirit of the Thief series.
           I have created a VR adaptation that currently allows the game to be played as a seated
           keyboard+mouse experience in virtual reality, with motion controller support in the works.
-          In the process, I have contributed many improvements to the game's renderer to make performance
+          In the process, I have contributed many improvements to the game's renderer to make its performance
           meet the needs of VR rendering. Working on this project has taught me most of what I know about
           3D rendering and VR, specifically knowledge in OpenGL, OpenVR and OpenXR.
       - layout: top-middle
@@ -154,7 +159,8 @@ content:
           include: 
           - big data processing in privacy-compliant ways on AWS cloud infrastructure and K8s with Flink and Akka
           - modernizing a legacy client-facing desktop application and bringing it into the cloud as SaaS
-          - building a modern web application with .NET, ASP.NET Core and Typescript/React
+          - building modern web applications with .NET, ASP.NET Core and Typescript/React
+          - internal AR/VR showcases with Microsoft's Hololens and various VR headsets
       - layout: left
         title: Technische Universität Darmstadt
         link: www.tu-darmstadt.de
