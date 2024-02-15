@@ -13,7 +13,7 @@ Normannenstr. 5<br/>
 
 #### Contact
 
-Telephone: +49 (0) 174 3410 626<br/>
+Telephone: +49 (0) 155 66114717<br/>
 Email: holger@frydrych.org
 
 <!--#### Sales tax ID
