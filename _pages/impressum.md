@@ -18,10 +18,10 @@ Normannenstr. 5<br/>
 Telefon: +49 (0) 155 66114717 <br/>
 E-Mail: holger@frydrych.org
 
-<!--#### Umsatzsteuer-ID
+#### Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:<br/>
-DE999999999-->
+DE366637357
 
 #### Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV
 

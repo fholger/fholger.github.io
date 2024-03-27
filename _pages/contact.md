@@ -16,10 +16,10 @@ Normannenstr. 5<br/>
 Telephone: +49 (0) 155 66114717<br/>
 Email: holger@frydrych.org
 
-<!--#### Sales tax ID
+#### Sales tax ID
 
 Sales tax identification number in accordance with Section 27 a of the Sales Tax Act:<br/>
-DE999999999-->
+DE366637357
 
 #### Editorially responsible in accordance with Section 55 Paragraph 2 RStV
 
