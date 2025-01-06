@@ -9,14 +9,15 @@ layout: page
 
 #### Angaben gemäß § 5 TMG
 
-Holger Frydrych<br/>
-Normannenstr. 5<br/>
-81926 München
+Frydrych - Holger Frydrych<br/>
+c/o Online-Impressum.de<br/>
+Europaring 90<br/>
+53757 Sankt Augustin
 
 #### Kontakt
 
-Telefon: +49 (0) 155 66114717 <br/>
-E-Mail: holger@frydrych.org
+E-Mail: holger@frydrych.org<br/>
+Kontaktformular: [Online-Impressum](https://www.mein.online-impressum.de/frydrych/#Zweiter_Kontaktweg)
 
 #### Umsatzsteuer-ID
 
@@ -25,9 +26,10 @@ DE366637357
 
 #### Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV
 
-Holger Frydrych<br/>
-Normannenstr. 4<br/>
-81925 München
+Frydrych - Holger Frydrych<br/>
+c/o Online-Impressum.de<br/>
+Europaring 90<br/>
+53757 Sankt Augustin
 
 #### Bildrechte am Profilfoto
 
